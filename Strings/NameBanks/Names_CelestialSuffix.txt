@@ -1,31 +1,8 @@
-﻿Secundus
-Primus
-Tertius
-Quadrus
-Pentimus
-Heximus
-Septimus
-Octus
-Nonus
-
-Minutus
-
-Borealis
-Australis
-Media
-Meridiana
-Posterious
-Prior
-
-Planet
-World
-
-
-al Rai
-al Asad
-al Samakah
-al Saif
-
+﻿Prima
+Sekonder
+Wereld
+Planeet
+Optimaal
 
 
 
