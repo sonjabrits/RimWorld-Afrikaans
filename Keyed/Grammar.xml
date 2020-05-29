@@ -2,69 +2,69 @@
 <LanguageData>
 
   <!-- EN: a -->
-  <IndefiniteArticle>TODO</IndefiniteArticle>
+  <IndefiniteArticle>'n</IndefiniteArticle>
   <!-- EN: the -->
-  <DefiniteArticle>TODO</DefiniteArticle>
+  <DefiniteArticle>die</DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm>TODO</IndefiniteForm>
+  <IndefiniteForm>'n {0}</IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm>TODO</DefiniteForm>
+  <DefiniteForm>die {0}</DefiniteForm>
 
   <!-- EN: its -->
-  <Proits>TODO</Proits>
+  <Proits>sy</Proits>
   <!-- EN: his -->
-  <Prohis>TODO</Prohis>
+  <Prohis>sy</Prohis>
   <!-- EN: her -->
-  <Proher>TODO</Proher>
+  <Proher>haar</Proher>
   <!-- EN: Its -->
-  <ProitsCap>TODO</ProitsCap>
+  <ProitsCap>Sy</ProitsCap>
   <!-- EN: His -->
-  <ProhisCap>TODO</ProhisCap>
+  <ProhisCap>Sy</ProhisCap>
   <!-- EN: Her -->
-  <ProherCap>TODO</ProherCap>
+  <ProherCap>Haar</ProherCap>
 
   <!-- EN: it -->
-  <ProitObj>TODO</ProitObj>
+  <ProitObj>dit</ProitObj>
   <!-- EN: him -->
-  <ProhimObj>TODO</ProhimObj>
+  <ProhimObj>hom</ProhimObj>
   <!-- EN: her -->
-  <ProherObj>TODO</ProherObj>
+  <ProherObj>haar</ProherObj>
   <!-- EN: It -->
-  <ProitObjCap>TODO</ProitObjCap>
+  <ProitObjCap>Dit</ProitObjCap>
   <!-- EN: Him -->
-  <ProhimObjCap>TODO</ProhimObjCap>
+  <ProhimObjCap>Hom</ProhimObjCap>
   <!-- EN: Her -->
-  <ProherObjCap>TODO</ProherObjCap>
+  <ProherObjCap>Haar</ProherObjCap>
 
   <!-- EN: he -->
-  <Prohe>TODO</Prohe>
+  <Prohe>hy</Prohe>
   <!-- EN: she -->
-  <Proshe>TODO</Proshe>
+  <Proshe>sy</Proshe>
   <!-- EN: it -->
-  <Proit>TODO</Proit>
+  <Proit>dit</Proit>
   <!-- EN: He -->
-  <ProheCap>TODO</ProheCap>
+  <ProheCap>Hy</ProheCap>
   <!-- EN: She -->
-  <ProsheCap>TODO</ProsheCap>
+  <ProsheCap>Sy</ProsheCap>
   <!-- EN: It -->
-  <ProitCap>TODO</ProitCap>
+  <ProitCap>Dit</ProitCap>
 
   <!-- EN: {0} and {1}. -->
-  <ClauseSequence2>TODO</ClauseSequence2>
+  <ClauseSequence2>{0} en {1}</ClauseSequence2>
   <!-- EN: {0}. Also, {1} and {2}. -->
-  <ClauseSequence3>TODO</ClauseSequence3>
+  <ClauseSequence3>{0}. Asook {1} en {2}</ClauseSequence3>
   <!-- EN: {0} and {1}. In addition {2} and {3}. -->
-  <ClauseSequence4>TODO</ClauseSequence4>
+  <ClauseSequence4>{0} en {1}. Daarby ook {2} en {3}.</ClauseSequence4>
   <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
-  <ClauseSequence5>TODO</ClauseSequence5>
+  <ClauseSequence5>{0} en {1}. Asook {2} en {3}. En {4}.</ClauseSequence5>
   <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
-  <ClauseSequence6>TODO</ClauseSequence6>
+  <ClauseSequence6>{0}, {1} en {2}. Asook {3} en {4}. En {5}.</ClauseSequence6>
   <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
-  <ClauseSequence7>TODO</ClauseSequence7>
+  <ClauseSequence7>{0} en {1}. {2} en {3}. Asook {4} en {5}. En {6}.</ClauseSequence7>
   <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
-  <ClauseSequence8>TODO</ClauseSequence8>
+  <ClauseSequence8>{0} en {1}. {2} en {3}. {4} en {5}. En {6} en {7}.</ClauseSequence8>
 
   <!-- EN: {0} or {1} -->
-  <XorY>TODO</XorY>
+  <XorY>{0} of {1}</XorY>
 
 </LanguageData>
