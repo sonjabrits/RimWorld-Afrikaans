@@ -2,109 +2,109 @@
 <LanguageData>
   
   <!-- EN: Cancel -->
-  <DesignatorCancel>TODO</DesignatorCancel>
+  <DesignatorCancel>Kanselleer</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>TODO</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Kanselleer aangestelde bou, myn, oes, and alle ander aktiwiteite.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>TODO</DesignatorCutPlants>
+  <DesignatorCutPlants>Sny plante</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>TODO</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Merk plante om gesny en vernietig te word. Die plant sal heeltemal verwyder word, en enige voedsel of hulpbron sal geoes word.</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>TODO</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Dekonstruktueer</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>TODO</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Dekonstruktueer dit en herwin van die hulpbronne.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>TODO</DesignatorUninstall>
+  <DesignatorUninstall>Oninstalleer</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>TODO</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Oninstalleer dit sodat dit verplaas, verkoop of erens anders installeer kan word.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
-  <DesignatorHarvest>TODO</DesignatorHarvest>
+  <DesignatorHarvest>Oes</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>TODO</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Merk plante om geoes te word vir hul voedsel en ander produkte.</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>TODO</DesignatorHarvestWood>
+  <DesignatorHarvestWood>Kap hout</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>TODO</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Merk bome om afgekap te word vir hout.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>TODO</DesignatorHaulThings>
+  <DesignatorHaulThings>Vervoer dinge</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>TODO</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Merk rotsstukke en ander items om vervoer te word na stortingsterreine. Dit word nie benodig vir items wat altyd vervoer kan word nie, byvoorbeeld voedsel of lyke.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>TODO</MustHaulHaulables>
+  <MustHaulHaulables>Kan slegs vervoerbare, maar nie-altyd-vervoerbare items, merk vir vervoer.</MustHaulHaulables>
 
   <!-- EN: Hunt -->
-  <DesignatorHunt>TODO</DesignatorHunt>
+  <DesignatorHunt>Jag</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>TODO</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Merk diere om gejag te word deur jou jagters.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>TODO</DesignatorMine>
+  <DesignatorMine>Myn</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>TODO</DesignatorMineDesc>
+  <DesignatorMineDesc>Merk roste om gemyn te word.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Gladmaak</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Merk rowwe steen oppervlak en mure om glad te maak.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
-  <DesignatorPlan>TODO</DesignatorPlan>
+  <DesignatorPlan>Beplan</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>TODO</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Merk die grond vir beplanning. Dit dien geen ander doel behalwe as hulp om te beplan nie.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>TODO</DesignatorPlanRemove>
+  <DesignatorPlanRemove>Verwyder planne</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>TODO</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Verwyder beplanning.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>TODO</DesignatorForbid>
+  <DesignatorForbid>Verbied</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
+  <DesignatorForbidDesc>Merk items as verbied. Koloniste kan nie interaksies he met items wat verbied is nie.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <DesignatorUnforbid>Laat toe</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Merk items as toegelaat. Koloniste kan interaksies he met die items.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>TODO</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Vergroot tuisarea</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>TODO</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Koloniste kan geboue herstel, vloere skoonmaak, en vure blus slegs in die tuisarea.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>TODO</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Krimp tuisarea</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>TODO</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Krimp a tuisarea. Koloniste kan nie meer hier skoonmaak, herstel, of ure blus nie.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>TODO</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Bou dak area</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>TODO</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Koloniste sal 'n dak bou in hierdie area.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>TODO</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Verwyder dak area</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>TODO</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Koloniste sal dakke verwyder in hierdie area (behalwe oorhoofse bergrotse, wat nie verwyder kan word nie).</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Ignoreer dak area</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>Koloniste sal dakke ignoreer in hierdie area.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
-  <DesignatorAreaSnowClearExpand>TODO</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Vergroot sneeu skoonmaak area</DesignatorAreaSnowClearExpand>
   <!-- EN: Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>TODO</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>Maak 'n area wat koloniste van sneeu sal skoonhou.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear>TODO</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Krimp sneeu skoonmaak area.</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>TODO</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>Krimp 'n sneeu skoonmak area. Koloniste sal nie meer hierdie area van sneeu skoonhou nie.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>TODO</DesignatorExpandAreaAllowed>

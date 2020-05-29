@@ -3,61 +3,61 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>TODO</Tutorial>
+  <Tutorial>Tutoriaal</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>TODO</NewColony>
+  <NewColony>Nuwe kolonie</NewColony>
   <!-- EN: Back to game -->
-  <BackToGame>TODO</BackToGame>
+  <BackToGame>Terug na die spel</BackToGame>
   <!-- EN: Review scenario -->
-  <ReviewScenario>TODO</ReviewScenario>
+  <ReviewScenario>Scenario oorsig</ReviewScenario>
   <!-- EN: Save -->
-  <Save>TODO</Save>
+  <Save>Stoor</Save>
   <!-- EN: Load game -->
-  <LoadGame>TODO</LoadGame>
+  <LoadGame>Laai</LoadGame>
   <!-- EN: Options -->
-  <Options>TODO</Options>
+  <Options>Instellings</Options>
   <!-- EN: Mod -->
-  <Mod>TODO</Mod>
+  <Mod>Mod</Mod>
   <!-- EN: Mods -->
-  <Mods>TODO</Mods>
+  <Mods>Mods</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>TODO</SaveTranslationReport>
+  <SaveTranslationReport>Stoor translasie verslag</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
+  <GeneratingTranslationReport>Besig om translasie verslag te genereer</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <CleanupTranslationFiles>Maak translasie data skoon</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>Dateer translasie data op</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <CleaningTranslationFiles>Besig om translasie data skoon te maak</CleaningTranslationFiles>
   <!-- EN: Credits -->
-  <Credits>TODO</Credits>
+  <Credits>Krediete</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>TODO</QuitToMainMenu>
+  <QuitToMainMenu>Sluit af na hoof menu</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>TODO</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Stoor en sluit af na hoof menu</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>TODO</QuitToOS>
+  <QuitToOS>Sluit af na OS</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>TODO</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Stoor en sluit af na OS</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>TODO</FictionPrimer>
+  <FictionPrimer>Fiksieprimer</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>TODO</LudeonBlog>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
   <!-- EN: Forums -->
-  <Forums>TODO</Forums>
+  <Forums>Forums</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>TODO</OfficialWiki>
+  <OfficialWiki>Offisiele wiki</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>TODO</TynansTwitter>
+  <TynansTwitter>Tynan se Twitter</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>TODO</TynansDesignBook>
+  <TynansDesignBook>Tynan se ontwerpsboek</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>TODO</HelpTranslate>
+  <HelpTranslate>Help om Rimworld te vertaal</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>TODO</BuySoundtrack>
+  <BuySoundtrack>Koop klankbaan</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>TODO</CreateWorld>
+  <CreateWorld>Skep wereld</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
