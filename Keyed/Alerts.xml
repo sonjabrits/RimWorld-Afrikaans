@@ -5,11 +5,11 @@
   <ClickToJumpToProblem>Kliek om na die probleem te spring</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>TODO</BreakRiskMinor>
+  <BreakRiskMinor>Matige geestelike ineenstortingsrisiko</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>TODO</BreakRiskMajor>
+  <BreakRiskMajor>Groot geestelike ineenstortingsrisiko</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>TODO</BreakRiskExtreme>
+  <BreakRiskExtreme>Ekstreme geestelike ineenstortingsrisiko</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>Hierdie koloniste is in 'n slegte bui en kan enige tyd 'n geringe ineenstorting he</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
@@ -99,150 +99,150 @@
   <ExhaustionDesc>Hierdie koloniste is uitgeput en benodig rus:\n\n{0}\nLaat hulle rus kry. Hulle benodig 'n bed vir die gebruik van koloniste. Asook, maak seker dat hulle nie in die weermag opgestel is nie.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>TODO</NeedFoodHopper>
+  <NeedFoodHopper>Benodig 'n voedsel houer</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>TODO</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Jy het 'n voedingstof voerder, maar geen voedsel houer langsaan nie.\n\Voedingstof voerders benodig aangrensende houers gevul met voedsel om te werk.\n\nBou 'n houer langs die voerder.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
-  <NeedMealSource>TODO</NeedMealSource>
+  <NeedMealSource>Benodig 'n voedsel bron</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>TODO</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Jy het geen manier om behoorlike maaltye voor te berei nie.\n\nBou 'n stoof, kampvuur of voedingstof voerder.\n\n(Dit kan nie in 'n gevangenissel geplaas word nie, andersins kan koloniste dit nie gebruik nie.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>TODO</NeedJoySource>
+  <NeedJoySource>Benodig ontspanningsaktiwiteite</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>TODO</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Daar is net {0} verskillende ontspanningsaktiwiteite beskikbaar in {1}, maar by die huidige standaardvlak ({2}), benodig koloniste {3} verskillende tipes ontspanning om tevrede te bly. Verskaf 'n verskeidenheid deur nuwe, verskillende soorte aktiwiteite te bou.\n\n{4}\n\n{5}\n\nNota: Jy kan sien watter tipe ontspanning 'n objek bied in sy status blad, deur 'i' te kliek.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Beskikbare ontspanningsaktiwiteite</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <MissingRecreationTypes>Ontbrekende ontspanningsaktiwiteite</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>By die huidige standaardvlak ({0}), daal elke toleransie teen {1} per dag wakker. Dit word aanbeveel om {2} soorte ontspanningsaktiwiteite te he.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>verveeld</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Verveeldheid</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>TODO</BoredomDesc>
+  <BoredomDesc>Hierdie koloniste is of in 'n ontspanningsnood, of is verveeld van elke soort ontspanningsaktiwiteit: \n\n{0}\n\nVerskaf meer verskeidenheid ontspanningsaktiwiteite.\n\nHuidiglik is die volgende beskikbaar vir {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>TODO</NeedBatteries>
+  <NeedBatteries>Benodig batterye</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>TODO</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Jy het 'n son of wind generator, maar geen batterye nie. Dit beteken jy verloor elektrisiteit elke keer wat die son ondergaan of die wind kalmeer.\n\nBou 'n battery of twee om seker te maak dat jy konstante toevoer van elektrisiteit het.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>TODO</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>Vegter het 'n veldwapen</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>TODO</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Een van jou koloniste het die Vegter eienskap, maar dra 'n veldwapen. Dit maak hulle baie ongelukkig.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>TODO</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>Skilddraer het veldwapen</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>TODO</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Een van jou koloniste dra 'n skildbelt en 'n veldwapen. Hulle kan nie hul veldwapen deur die skild skiet nie (behalwe as 'n vyand alreeds in kontak is).</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>TODO</NeedResearchProject>
+  <NeedResearchProject>Benodig 'n navorsingsprojek</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>TODO</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>Jy het toerusting om navorsing te doen, maar het nog geen projek gekies nie.\n\nMaak die navorsingsmenu oop en kies 'n projek.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>TODO</ColonistsIdle>
+  <ColonistsIdle>{0} koloniste is ledig</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>TODO</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Hierdie koloniste dwaal doelloos rond:\n\n{0}\nJy behoort waarskynlik vir hulle iets vind om te doen.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Konvooi ledig</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>Hierdie konvooie wag vir jou om hul volgende bestemming te kies:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
-  <ColonistNeedsTreatment>TODO</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>Kolonis benodig behandeling</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>TODO</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Hierdie koloniste benodig mediese behandeling. Sonder behandeling mag hulle dalk sterf van hul wonde, of hul wonde kan permanent raak.\n\n{0}\nBehandel hulle deur hul na 'n mediese bed te stuur.\n\n(Kliek op 'n normale bed en skakel dit om in 'n mediese bed. Daarna kan jy die beseerde kolonis kies en die mediese bed regter-kliek om hulle te laat rus.</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>TODO</AlertHypothermia>
+  <AlertHypothermia>Hipotermie</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>TODO</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Hierdie koloniste lei aan hipotermie:\n\n{0}\nMaak seker hulle klere is toepaslik vir die seisoen en dat binnemuurse areas behoorlik verhit is.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>TODO</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>{0} pasiente wag op mediese operasies</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>TODO</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Hierdie pasiente wag op mediese operasies:\n\n{0}\nMaak seker jy het al die benodigde mediese gereedskap en 'n beskikbare dokter.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
-  <FireInHomeArea>TODO</FireInHomeArea>
+  <FireInHomeArea>Vuur!</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
-  <FireInHomeAreaDesc>TODO</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Daar is 'n vuur in die tuisarea.</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
-  <PawnsWithLifeThreateningDisease>TODO</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>Mediese nood</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>TODO</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Koloniste loop die risiko van dood weens ernstige siekte:\n\n{0}\nMaak seker hulle ontvang die beste mediese hulp moontlik.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>TODO</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Koloniste loop die risiko van dood weens ernstige siekte:\n\n{0}\nIndien moontlik, oorweeg amputasie of die vervanging van besmette ledemate om koloniste aan die lewe te hou.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
-  <BilliardsNeedsSpace>TODO</BilliardsNeedsSpace>
+  <BilliardsNeedsSpace>Biljarttafel benodig spasie</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>TODO</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Een van jou biljarttafels is teenaan 'n obstruksie wat veroorsaak dat koloniste dit nie kan gebruik nie.\n\n'n Biljarttafel benodig oop spasie rondom dit om bruikbaar te wees.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>TODO</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>Jagter het 'n skild en 'n veldwapen.</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>TODO</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Een van jou jagters het 'n veldwapen en dra 'n skildbelt, wat hom verhoed om langafstand te skiet.\n\nHulle kan nie jag voordat die skildbelt verwyder word nie.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>TODO</NeedWarmClothes>
+  <NeedWarmClothes>Benodig warm klere</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>TODO</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>Ten minste {0} van jou koloniste gaan nie warm klere he wanneer die koue seisoen begin nie.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>TODO</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>Geen van jou koloniste gaan warm genoeg klere he wanneer die koue seisoen kom nie.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>TODO</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>Die buitemuurse temperatuur gaan {0} bereik.\n\nJy kan warm klere maak by 'n werkstafel, of dit koop van handelaars.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>TODO</ImmobileCaravan>
+  <ImmobileCaravan>Immobiele konvooi</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>TODO</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Een van jou konvooie is immobiel omdat dit te swaar is.\n\nJy kan die konvooi weer mobiel maak deur van die items te verwyder in die ITEMS blad.</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Gebou onbruikbaar as gevolg van dak</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Een of meer van jou geboue kan slegs gebruik word sonder 'n dak, maar het tans 'n dak. The gebou(e) is onbruikbaar totdat jy die dak verwyder.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>Hittesteek</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Die volgende koloniste lei aan hittesteek:\n\n{0}\nBeweeg hulle na 'n koeler area. Jy kan kamers afkoel met passiewe verkoelers of elektriese verkoelers. Areas diep ondergrond is natuurlik koel, as dit geskei is van buite met 'n deur.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Gas ongelukkig</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Die soektog {0} vereis dat jy die persoon in 'n goeie bui hou, maar hul bui is tans sleg. Neem aksies om hulle beter te laat voel.</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Pendelbus vertrek in {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Die pendelbus vertrek in {1}. Die soektog {0} vereis dat jy die volgende persone of items in die pendelbus laai voordat dit vertrek:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Monument gaan vernietig word</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Jy het 'n gebou binne in een van jou monumente gebou wat nie toegelaat word nie. Die monument gaan dus vernietig word in {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>Aftellingsklok geaktiveer</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Daar is 'n aftellingsklok wat besig is om af te tel, wat nabygelee mekanoiede gaan wakker maak.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>Aftellingsklokke geaktiveer</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>Daar is {0} aftellingsklokke wat besig is om af te tel, wat nabygelee mekanoiede gaan wakkermaak.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>Soektog verval in {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Die soektog {0} gaan verval in {1}.</QuestExpiresSoonDesc>
 </LanguageData>
