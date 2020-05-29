@@ -2,23 +2,23 @@
 <LanguageData>
 
   <!-- EN: Time -->
-  <ClockTime>TODO</ClockTime>
+  <ClockTime>Tyd</ClockTime>
   <!-- EN: Date -->
-  <ClockDate>TODO</ClockDate>
+  <ClockDate>Datum</ClockDate>
   <!-- EN: Year -->
-  <ClockYear>TODO</ClockYear>
+  <ClockYear>Jaar</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>TODO</DateReadoutTip>
+  <DateReadoutTip>Dae verloop vanaf jou aankoms: {0}\nHuidige kwartaal: {4}\nPlaaslike seisoen: {2}\n\nDie jaar is verdeel in 4 kartale van {3} dae elk. Kwartale is dieselfde oral, terwyl seisoene verskil in verskillende plekke.\n\nPlaaslike seisoene vir elke kartaal:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>TODO</FullDate>
+  <FullDate>{0} van {1}, {2}</FullDate>
   <!-- EN: {0} {1} {2} -->
-  <ShortDate>TODO</ShortDate>
+  <ShortDate>{0} {1} {2}</ShortDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>TODO</DateReadout>
+  <DateReadout>{0} van {1}, {2}</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>TODO</SeasonFullDate>
+  <SeasonFullDate>{0} van {1}}</SeasonFullDate>
   <!-- EN: Whole year -->
-  <WholeYear>TODO</WholeYear>
+  <WholeYear>'n Hele jaar</WholeYear>
   
 </LanguageData>
