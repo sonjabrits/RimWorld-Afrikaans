@@ -61,413 +61,413 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>TODO</TranslationThanks>
+  <TranslationThanks>Alle vertalings van Rimworld word deur ondersteuners gedoen. Hierde vertaling is gedoen deur die volgende uitstekende ondersteuners:</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>TODO</TranslationHowToContribute>
+  <TranslationHowToContribute>Jy kan ook bydra. Kliek hier om meer uit te vind (dit maak webblaaier oop).</TranslationHowToContribute>
   <!-- EN: Learn more -->
-  <LearnMore>TODO</LearnMore>
+  <LearnMore>Vind meer uit</LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>TODO</DevBuildWarning>
+  <DevBuildWarning>Waarskuwing: Hierdie is 'n onstabiele ontwikkeling. Dit beteken dat ons ontwerpseksperimente uitvoer en tegniese ontwikkeling doen.\n\nParty funksies is aspris tydelik ongebalanseerd. Dit is 'n klassieke ontwikkelingsmetode om die balans beter te verstaan, om die finale parameters te kies.\n\nDaar mag dalk ook nog foute wees wat Rimworld enige tyd kan breek.\n\nAs jy toestem daartoe, dankie dat jy ons help toets! As jy nie wil deel wees van ons eksperiment nie, speel asseblief die nuutste stabiele weergawe.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
-  <ReviewWorld>TODO</ReviewWorld>
+  <ReviewWorld>Hersien wereld</ReviewWorld>
   <!-- EN: Generate -->
-  <WorldGenerate>TODO</WorldGenerate>
+  <WorldGenerate>Genereer</WorldGenerate>
   <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>TODO</WorldSaveAndFinish>
+  <WorldSaveAndFinish>Stoor en maak klaar</WorldSaveAndFinish>
   <!-- EN: Reset -->
-  <Reset>TODO</Reset>
+  <Reset>Herstel na oorspronklik</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>TODO</PlanetCoverage>
+  <PlanetCoverage>Dekking area</PlanetCoverage>
   <!-- EN: Overall rainfall -->
-  <PlanetRainfall>TODO</PlanetRainfall>
+  <PlanetRainfall>Algehele reenval</PlanetRainfall>
   <!-- EN: Overall temperature -->
-  <PlanetTemperature>TODO</PlanetTemperature>
+  <PlanetTemperature>Algehele temperatuur</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>TODO</PlanetPopulation>
+  <PlanetPopulation>Populasie</PlanetPopulation>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>TODO</PlanetRainfall_Low>
+  <PlanetRainfall_Low>Laag</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>TODO</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>Normaal</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>TODO</PlanetRainfall_High>
+  <PlanetRainfall_High>Hoog</PlanetRainfall_High>
   <!-- EN: Low -->
-  <PlanetTemperature_Low>TODO</PlanetTemperature_Low>
+  <PlanetTemperature_Low>Laag</PlanetTemperature_Low>
   <!-- EN: Normal -->
-  <PlanetTemperature_Normal>TODO</PlanetTemperature_Normal>
+  <PlanetTemperature_Normal>Normaal</PlanetTemperature_Normal>
   <!-- EN: High -->
-  <PlanetTemperature_High>TODO</PlanetTemperature_High>
+  <PlanetTemperature_High>Hoog</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <PlanetPopulation_Low>Laag</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>Normaal</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <PlanetPopulation_High>Hoog</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>TODO</WorldSeed>
   <!-- EN: Randomize seed -->
   <RandomizeSeed>TODO</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>TODO</PlanetCoverageTip>
+  <PlanetCoverageTip>Die planeet het altyd dieselfde radius, maar omdat dit veel groter is as benodig, genereer ons nie die hele oppervlak nie, omdat dit baie lank kan nee,. Dit is die persentasie van die oppervlak wat jy wil genereer.</PlanetCoverageTip>
   <!-- EN: Factions -->
-  <WorldFactionsTab>TODO</WorldFactionsTab>
+  <WorldFactionsTab>Faksies</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>TODO</SelectWorld>
+  <SelectWorld>Kies wereld</SelectWorld>
   <!-- EN: Select -->
-  <WorldChooseButton>TODO</WorldChooseButton>
+  <WorldChooseButton>Kies</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>TODO</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Geen wereld data gevind nie. Kies eers 'n wereld.</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>TODO</BuildNowAvailable>
+  <BuildNowAvailable>Weergawe {0} is nou beskibaar. Besoek ludeon.com vir meer inligting.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>TODO</BuildUpToDate>
+  <BuildUpToDate>Hierdie is die nuutste weergawe.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>TODO</ErrorGettingVersionInfo>
+  <ErrorGettingVersionInfo>Fout begaan om die weergawe inligting te vind: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>TODO</LoadingVersionInfo>
+  <LoadingVersionInfo>Besig om weergawe inligting te laai...</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
-  <GenerateWorld>TODO</GenerateWorld>
+  <GenerateWorld>Genereer wereld</GenerateWorld>
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>TODO</OpenSteamWorkshop>
+  <OpenSteamWorkshop>Maak Steam Workshop oop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>TODO</GetModsFromForum>
+  <GetModsFromForum>Kry mods van die forum</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>TODO</OpenModsDataFolder>
+  <OpenModsDataFolder>Maak mods data stoorplek oop</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>TODO</ShowModsDataLocation>
+  <ShowModsDataLocation>Wys mods data stoorplek</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>TODO</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Is jy seker jy wil die basiese funkcsionaliteit mod afskakel? Rimworld gaan glad nie werk behalwe as jy 'n ander mod het wat die basiese funksionaliteit vervang nie.\n\nOnthou, ander mods kan definisies in die basiese mod oorksryf deur dieselfde defName te gebruik.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>TODO</ConfirmDeleteMod>
+  <ConfirmDeleteMod>Is jy seker jy wil all die inhoud van {0} verwyder?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>TODO</ResolveModOrder>
+  <ResolveModOrder>Auto-sorteer mods</ResolveModOrder>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>TODO</Unsubscribe>
+  <Unsubscribe>Meld af</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>TODO</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Is jy seker jy wil afmeld van {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
-  <Author>TODO</Author>
+  <Author>Skrywer</Author>
   <!-- EN: Workshop page -->
-  <WorkshopPage>TODO</WorkshopPage>
+  <WorkshopPage>Workshop blad</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>TODO</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Laai op na Steam Workshop</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>TODO</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Gradeer op in Steam Workshop</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>TODO</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Opgradering alreeds besig.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>TODO</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Workshop voorlegging onsuksesvol.\n\nRede: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>TODO</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>Suksesvol opgelaai {0}</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>TODO</Downloading>
+  <Downloading>Besig om af te laai</Downloading>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Wys vervulde vereistes</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>TODO</ModClickToSelect>
+  <ModClickToSelect>Kliek om te kies.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Kliek om na die webblad te gaan.</ModClickToGoToWebsite>
   <!-- EN: Source -->
-  <Source>TODO</Source>
+  <Source>Bron</Source>
   <!-- EN: For game version(s) -->
-  <ModTargetVersion>TODO</ModTargetVersion>
+  <ModTargetVersion>Vir Rimworld weergawe(s)</ModTargetVersion>
   <!-- EN: ID -->
-  <ModPackageId>TODO</ModPackageId>
+  <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <ModMustLoadBefore>Hierdie moet eers gelaai word: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <ModMustLoadAfter>Hierdie moet daarna gelaai word: {0}.</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>TODO</ModDependsOn>
+  <ModDependsOn>Is afhanklik van: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <ModIncompatibleWith>Werk nie saam met: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>Hierdie mod werk nie saam met: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <ModOrderingWarning>Hierdie mod laai in die verkeerde orde relatief tot 'n ander mod. Gebruik die 'auto-sorteer' knoppie, of sorteer die mods self.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>'n Ander aktiewe mod gebruik dieselfde ID: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <ModCyclicDependency>Daar is 'n sikliese afhanklikheid, wat begin met {0}.</ModCyclicDependency>
   <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Dit benodig die volgende mods om te funksioneer: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>TODO</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Hierdie mod is nie geskik vir hierdie weergawe van Rimworld nie, en sal waarskynlik nie korrek funksioneer nie.</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>Hierdie mod is gemaak vir 'n nuwer weergawe van Rimworld, en sal waarskynlik nie korrek funksioneer nie.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>TODO</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Die mod moet die korrekte formaat ondersteunde weergawe inligting he in About.xml, soos dit: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Die mod moet 'n unieke, korrekte formaat packageId in About.xml he. Dit moet die volgende vereistes voldoen:\n\n - Slegs alfanumeriese karakters en punt.\n - Geen spasies\n - Ten minste een punt.\n Geen herhalende punte in 'n ry, of begin of einde met 'n punt nie.\n - 60 karakters of minder\n - Mag nie die woord 'Ludeon' bevat nie.\n\nByvoorbeeld:\n\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Hierdie mod het 'n fout in LoadFolders.xml, wat jy eers moet oplos vordat jy dit kan oplaai.</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>Die stoorplek {0} vir weergawe {1} bestaan nie.</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>Foutiewe weergawe '{0}'. Korrekte formaat is Major.Minor (b.v. 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Die lys van laai stoorplekke vir weergawe {0} is leeg.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Weergawe {0} lys dieselfde stoorplek meer as een keer: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Foutiewe weergawe orde: {0} behoort voor {1} te wees.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Foutiewe weergawe orde: 'default' moet eerste spesifiseer word.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Weergawe {0} is in die stoorplek gespesifeer, maar dit is nie in die supportedVersions' gelys in die mod se About.xml nie.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>TODO</DragToReorder>
+  <DragToReorder>Trek rond om orde te verander</DragToReorder>
 
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
-  <ChooseScenario>TODO</ChooseScenario>
+  <ChooseScenario>Kies scenario</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>TODO</ScenariosCustom>
+  <ScenariosCustom>Verander</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>TODO</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>TODO</ScenarioEditor>
+  <ScenarioEditor>Bou scenario</ScenarioEditor>
   <!-- EN: Delete -->
-  <Delete>TODO</Delete>
+  <Delete>Skrap</Delete>
   
   <!-- Scenario editor -->
   <!-- EN: seed -->
-  <Seed>TODO</Seed>
+  <Seed>Seed</Seed>
   <!-- EN: Load -->
-  <Load>TODO</Load>
+  <Load>Laai</Load>
   <!-- EN: edit mode -->
-  <EditMode>TODO</EditMode>
+  <EditMode>Aanpas mode</EditMode>
   <!-- EN: Summary -->
-  <Summary>TODO</Summary>
+  <Summary>Opsomming</Summary>
   <!-- EN: Add part -->
-  <AddPart>TODO</AddPart>
+  <AddPart>Voeg deel by</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>TODO</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>Alle teks velde moet gevul word.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>TODO</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Is jy seker jy wil dit na die Steam Workshop oplaai?\n\nJy moet die Steam Workshop terme aanvaar. Vind die volle terme hier:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>TODO</ConfirmContentAuthor>
+  <ConfirmContentAuthor>Natuurlik behoort jy net jou eie skeppings op te laai.\n\nHet jy hierdie self gemaak?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
-  <Incompatible>TODO</Incompatible>
+  <Incompatible>Dit pas nie</Incompatible>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>TODO</TooMany>
+  <TooMany>Te veel (maks {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>TODO</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Dit kan aangepas word in die Workshop, aangesien jy die skrywer is.</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>TODO</ChooseAIStoryteller>
+  <ChooseAIStoryteller>Kies 'n AI storieverteller</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>TODO</HowStorytellersWork>
+  <HowStorytellersWork>Die AI storieverteller skep gebeurtenisse soos seerower aanvalle, hulpbron voorsienings, of dieraanvalle. Hulle keuses affekteer die storie van jou kolonie. Jy kan hier instellings enige tyd verander.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>TODO</MustChooseDifficulty>
+  <MustChooseDifficulty>Kies asseblief die moeilikheidsvlak.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
-  <Difficulty>TODO</Difficulty>
+  <Difficulty>Moeilikheidsvlak</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>TODO</CommitmentMode>
+  <CommitmentMode>Toegewyd</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <ReloadAnytimeMode>Laai-enige-tyd</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <MustChoosePermadeath>Kis asseblief die Toegewyd of Laai-enige-tyd mode</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Jy kan enige tyd die spel stoor of laai.\n\nDit is 'n goeie idee as jy nog leer hoe om te speel, as dit jou persoonlike styl pas, as jy mods gebruik wat Rimworld kan breek, of as jy self jou toewyding wil reguleer.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>TODO</PermadeathModeInfo>
+  <PermadeathModeInfo>Jy kan slegs die spel stoor wanneer jy Rimworld afsluit.\n\nOmdat Rimworld 'n storieverteller is, is dit nie die einde van die spel as jy al jou koloniste verloor nie - dis deel van die storie. Rimworld is ontwerp om jou toe te laat om te herstel na verliese.\n\nHierdie moeilike situasies maak 'n storie beide 'n tragedie en 'n triomf. Dit is die manier wat Rimworld ontwerp is om gespeel te word.\n\nDaar is 'n rede dat Luke Skywalker nie opgegee het en herlaai het toe se familie vermoor is nie - verlies en herstelling is dramaties.</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Die storieverteller en moeilikheidsvlak kan enige tyd verander word.</CanChangeStorytellerSettingsDuringPlay>
   <!-- EN: Merciless mode -->
-  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <UnlockExtremeDifficulty>Genadeloos</UnlockExtremeDifficulty>
   <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>Die Genadeloos mode is 'n spesiale mode waar elke uitdaging ekstreem is.\n\nDie Genadeloos mode word automaties oopgesluit wanneer jy spesifieke mylpale bereik. Of jy kan dit ook nou oopsluit.\n\nHierdie opsie word net aangeraai as jy alreeds 'n moeilike spel of twee gespeel het en 'n goeie kans wil he om te sterf - ten spyte van jou beste poging.</ConfirmUnlockExtremeDifficulty>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>TODO</SelectStartingSite>
+  <SelectStartingSite>Kies begin posisie</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>TODO</SelectRandomSite>
+  <SelectRandomSite>Kies ewekansige posisie</SelectRandomSite>
   <!-- EN: Select site -->
-  <SelectSite>TODO</SelectSite>
+  <SelectSite>Kies posisie</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>TODO</MustSelectStartingSite>
+  <MustSelectStartingSite>Kies asseblief 'n posisie.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>TODO</CannotLandBiome>
+  <CannotLandBiome>Jy kan nie in hierdie bioom land nie: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>TODO</BiomeNotImplemented>
+  <BiomeNotImplemented>Bioom nog nie geimplementeer nie.</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>TODO</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Jy kan nie op onbegaanbare berge land nie.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>TODO</BaseAlreadyThere>
+  <BaseAlreadyThere>{0} het alreeds 'n basis hier.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>TODO</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>Jy het alreeds 'n basis hier.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>TODO</TileOccupied>
+  <TileOccupied>Hierdie posisie is beset.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>TODO</FactionBaseAdjacent>
+  <FactionBaseAdjacent>Nedersettings kan nie direk langs mekaar wees nie.</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>TODO</Biome>
+  <Biome>Biome</Biome>
   <!-- EN: Terrain -->
-  <Terrain>TODO</Terrain>
+  <Terrain>Terrein</Terrain>
   <!-- EN: Road -->
-  <Road>TODO</Road>
+  <Road>Pad</Road>
   <!-- EN: River -->
-  <River>TODO</River>
+  <River>Rivier</River>
   <!-- EN: Elevation -->
-  <Elevation>TODO</Elevation>
+  <Elevation>Hoogte</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>TODO</Fertility>
+  <Fertility>Vrugbaarheid</Fertility>
   <!-- EN: Average temperature -->
-  <AvgTemp>TODO</AvgTemp>
+  <AvgTemp>Gemiddelde temperatuur</AvgTemp>
   <!-- EN: Rainfall -->
-  <Rainfall>TODO</Rainfall>
+  <Rainfall>Reenval</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>TODO</SpecialFeatures>
+  <SpecialFeatures>Spesiale kenmerke</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>TODO</HasCoast0>
+  <HasCoast0>Noordkus</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>TODO</HasCoast1>
+  <HasCoast1>Ooskus</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>TODO</HasCoast2>
+  <HasCoast2>Suidkus</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>TODO</HasCoast3>
+  <HasCoast3>Weskus</HasCoast3>
   <!-- EN: caves -->
-  <HasCaves>TODO</HasCaves>
+  <HasCaves>Grotte</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>TODO</FactionBase>
+  <FactionBase>Faksie basis</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>TODO</StoneTypesHere>
+  <StoneTypesHere>Rotstipes</StoneTypesHere>
   <!-- EN: Time zone -->
-  <TimeZone>TODO</TimeZone>
+  <TimeZone>Tydsone</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>TODO</MovementDifficulty>
+  <MovementDifficulty>Bewegingsmoeilikheid</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>TODO</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Diere kan nou wei</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>TODO</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>Gemiddelde siekte frekwensie</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>TODO</PerYear>
+  <PerYear>per jaar</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>TODO</Forageability>
+  <Forageability>Oesbaarheid</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Geen van die gekose koloniste kan die volgende rolle doen nie:\n\n{0}\n\nDit kan die spel baie moeliker as normaal maak. Is jy seker jy wil voortgaan?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>TODO</CreateCharacters>
+  <CreateCharacters>Maak karakters</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>TODO</FirstNameDesc>
+  <FirstNameDesc>Die karakter se naam.\n\nDit is slegs in sekere menus sigbaar.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>TODO</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Die karakter se bynaam.\n\nDit is altyd sigbaar. Dit kan die naam of van, of 'n heeltemal ander bynaam wees.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>TODO</LastNameDesc>
+  <LastNameDesc>Die karakter se van.\n\nDit is net in sekere menus sigbaar.</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>TODO</Randomize>
+  <Randomize>Ewekansig</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>TODO</AgeIndicator>
+  <AgeIndicator>Ouderdom {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>TODO</PawnSummary>
+  <PawnSummary>{PAWN_race}, ouderdom {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, ouderdom {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
-  <Backstory>TODO</Backstory>
+  <Backstory>Lewensverhaal</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>TODO</IncapableOf>
+  <IncapableOf>Onbekwaam vir</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>TODO</Abilities>
+  <Abilities>Vermoens</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Veroorsaak deur lewensverhaal: {0}</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Veroorsaak deur titel: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Veroorsaak deur eienskap: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Veroorsaak deur: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Gedeaktiveerde werksfunksies:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Veroorsaak deur soektog status: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
-  <Traits>TODO</Traits>
+  <Traits>Eienskappe</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>TODO</PermanentMoodEffect>
+  <PermanentMoodEffect>Permanente bui-effekte</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>TODO</Skills>
+  <Skills>Vaardighede</Skills>
   <!-- EN: none -->
-  <NoneLower>TODO</NoneLower>
+  <NoneLower>geen</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>TODO</Adulthood>
+  <Adulthood>Volwassenheid</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>TODO</Childhood>
+  <Childhood>Kinderjare</Childhood>
   <!-- EN: Current -->
-  <Current>TODO</Current>
+  <Current>Huidig</Current>
   <!-- EN: male -->
-  <Male>TODO</Male>
+  <Male>malik</Male>
   <!-- EN: female -->
-  <Female>TODO</Female>
+  <Female>vroulik</Female>
   <!-- EN: male -->
-  <MaleAnimal>TODO</MaleAnimal>
+  <MaleAnimal>mannetjie</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>TODO</FemaleAnimal>
+  <FemaleAnimal>wyfie</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>TODO</Pain>
+  <Pain>Pyn</Pain>
   <!-- EN: Health -->
-  <Health>TODO</Health>
+  <Health>Gesondheid</Health>
   <!-- EN: Relations -->
-  <Relations>TODO</Relations>
+  <Relations>Verhoudings</Relations>
   <!-- EN: Team skills -->
-  <TeamSkills>TODO</TeamSkills>
+  <TeamSkills>Spanvaardighede</TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>TODO</StartingPawnsSelected>
+  <StartingPawnsSelected>Gekies</StartingPawnsSelected>
   <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>TODO</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>Agter gelaat</StartingPawnsLeftBehind>
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>TODO</Start>
+  <Start>Begin</Start>
   <!-- EN: Advanced -->
-  <Advanced>TODO</Advanced>
+  <Advanced>Gevorderd</Advanced>
   <!-- EN: Next -->
-  <Next>TODO</Next>
+  <Next>Volgende</Next>
   <!-- EN: Back -->
-  <Back>TODO</Back>
+  <Back>Terug</Back>
   <!-- EN: Show Materials -->
-  <ShowMaterials>TODO</ShowMaterials>
+  <ShowMaterials>Wys materiale</ShowMaterials>
   <!-- EN: Gameplay -->
-  <Gameplay>TODO</Gameplay>
+  <Gameplay>Spel</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>TODO</ConfirmQuit>
+  <ConfirmQuit>Regtig aflsuit? Jy gaan ongestoorde veranderinge verloor.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>TODO</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Elke persoon benodig 'n guldige naam.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Geen van die gekose person kan die volgende take doen nie</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
-  <Quit>TODO</Quit>
+  <Quit>Sluit af</Quit>
   <!-- EN: Ignore -->
-  <Ignore>TODO</Ignore>
+  <Ignore>Ignoreer</Ignore>
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>TODO</GeneratingWorld>
+  <GeneratingWorld>Besig om wereld te genereer</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>TODO</GeneratingPlanet>
+  <GeneratingPlanet>Besig om planeet te genereer</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>TODO</GeneratingMap>
+  <GeneratingMap>Besig om kaart te genereer</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>TODO</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>Besig om kaart vir nuwe ontmoeting te genereer</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info -->
-  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <ClickForMoreInfo>Kliek vir meer inligting</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Geen meer inligting is beskibaar nie.</NoMoreInfoAvailable>
 
 </LanguageData>
