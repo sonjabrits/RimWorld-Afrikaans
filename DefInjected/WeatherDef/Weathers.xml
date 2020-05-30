@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: clear -->
-  <Clear.label>TODO</Clear.label>
+  <Clear.label>helder</Clear.label>
   <!-- EN: A clear day. No penalties or modifiers. -->
-  <Clear.description>TODO</Clear.description>
+  <Clear.description>'n Helder dag. Geen effekte of wysigers.</Clear.description>
   
   <!-- EN: dry thunderstorm -->
-  <DryThunderstorm.label>TODO</DryThunderstorm.label>
+  <DryThunderstorm.label>droe donderstorm</DryThunderstorm.label>
   <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
-  <DryThunderstorm.description>TODO</DryThunderstorm.description>
+  <DryThunderstorm.description>Droe donderstorms is gevaarlik, want die weerlig kan vure veroorsaak en daar is geen reen om hul te blus nie.</DryThunderstorm.description>
   
   <!-- EN: fog -->
-  <Fog.label>TODO</Fog.label>
+  <Fog.label>mis</Fog.label>
   <!-- EN: Fog reduces the accuracy of ranged weapons. -->
-  <Fog.description>TODO</Fog.description>
+  <Fog.description>Mis verlaag die akkuraatheid van veldwapens.</Fog.description>
   
   <!-- EN: foggy rain -->
-  <FoggyRain.label>TODO</FoggyRain.label>
+  <FoggyRain.label>mistige reen</FoggyRain.label>
   <!-- EN: Reduces accuracy and movement speed. -->
-  <FoggyRain.description>TODO</FoggyRain.description>
+  <FoggyRain.description>Verlaag akkuraatheid en bewegings spoed.</FoggyRain.description>
   
   <!-- EN: rain -->
-  <Rain.label>TODO</Rain.label>
+  <Rain.label>reen</Rain.label>
   <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <Rain.description>TODO</Rain.description>
+  <Rain.description>Reen verlaag die akkuraatheid van veldwapens, blus vure, en maak koloniste stadiger.</Rain.description>
   
   <!-- EN: rainy thunderstorm -->
-  <RainyThunderstorm.label>TODO</RainyThunderstorm.label>
+  <RainyThunderstorm.label>reenerige donderstorms</RainyThunderstorm.label>
   <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
-  <RainyThunderstorm.description>TODO</RainyThunderstorm.description>
+  <RainyThunderstorm.description>Die weerlig kan vure veroorsaak, maar die reen sal dit blus. Die reen verlaag ook bewegings spoed en velwapen akkuraatheid.</RainyThunderstorm.description>
   
   <!-- EN: gentle snow -->
-  <SnowGentle.label>TODO</SnowGentle.label>
+  <SnowGentle.label>sagte sneeu</SnowGentle.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowGentle.description>TODO</SnowGentle.description>
+  <SnowGentle.description>Sneeu verlaag die akkuraatheid van veldwapens, blus vure, en maak koloniste stadiger.</SnowGentle.description>
   
   <!-- EN: hard snow -->
-  <SnowHard.label>TODO</SnowHard.label>
+  <SnowHard.label>harde sneeu</SnowHard.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowHard.description>TODO</SnowHard.description>
+  <SnowHard.description>Sneeu verlaag die akkuraatheid van veldwapens, blus vure, en maak koloniste stadiger.</SnowHard.description>
   
 </LanguageData>
