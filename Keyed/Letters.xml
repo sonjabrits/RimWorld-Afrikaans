@@ -3,18 +3,18 @@
 
   <!-- Misc -->
   <!-- EN: Jump to location -->
-  <JumpToLocation>TODO</JumpToLocation>
+  <JumpToLocation>Spring na posisie</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>TODO</PostponeLetter>
+  <PostponeLetter>Stel uit</PostponeLetter>
   <!-- EN: Reject -->
-  <RejectLetter>TODO</RejectLetter>
+  <RejectLetter>Weier</RejectLetter>
   <!-- EN: Read more -->
-  <ReadMore>TODO</ReadMore>
+  <ReadMore>Lees meer</ReadMore>
 
   <!-- EN: Summer -->
-  <LetterLabelFirstSummerWarning>TODO</LetterLabelFirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Somer</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>TODO</FirstSummerWarning>
+  <FirstSummerWarning>Somer het begin! Maar winter is om die draai.\n\nJou voedsel gewasse groei nie in die koue winter nie. Maak seker dat jy genoeg voedsel stoor om te oorleef. Jy kan 'n inloop yskas bou om te verhoed dat voedsel sleg word.\n\nKoop, steel of maak 'n paar parka baadjies, andersins gaan jy vries as jy buitentoe gaan.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
   <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>
