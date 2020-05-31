@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: temperate forest -->
-  <TemperateForest.label>TODO</TemperateForest.label>
+  <TemperateForest.label>matige woud</TemperateForest.label>
   <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
-  <TemperateForest.description>TODO</TemperateForest.description>
+  <TemperateForest.description>Woude met bladwisselende bomes en vrugbare grond. Baie dierespesies beweeg deur die bome en op die vlaktes.</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
-  <TemperateSwamp.label>TODO</TemperateSwamp.label>
+  <TemperateSwamp.label>matige moeras</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>TODO</TemperateSwamp.description>
+  <TemperateSwamp.description>Vleilande propvol plante en siektes. Digte oorgroei van plants maak dit moeilik om rond te beweeg, en dit neem lank om areas skoon te maak vir geboue. Dele van die terrein is te moerasagtig om swaar strukture te ondersteun.</TemperateSwamp.description>
   
 </LanguageData>
