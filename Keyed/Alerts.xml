@@ -11,7 +11,7 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Ekstreme geestelike ineenstortingsrisiko</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>Hierdie koloniste is in 'n slegte bui en kan enige tyd 'n geringe ineenstorting he</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Hierdie koloniste is in 'n slegte bui en kan enige tyd 'n geringe ineenstorting he:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
   <BreakRiskMajorDesc>Hierdie koloniste is in 'n baie slegte bui en kan enige tyd 'n groot ineenstorting he</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->

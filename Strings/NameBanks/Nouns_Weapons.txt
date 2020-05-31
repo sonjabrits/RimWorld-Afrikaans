@@ -4,7 +4,7 @@ sweep
 saag
 spies
 klub
-knuckleduster
+knucklebuster
 mes
 dolk
 uitdaging
@@ -32,7 +32,6 @@ Lance
 mace
 
 pyl
-arrow
 geweer
 kruisboog
 pistool
