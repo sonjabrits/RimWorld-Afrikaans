@@ -17,9 +17,9 @@
   <DesignatorDeconstructDesc>Dekonstruktueer dit en herwin van die hulpbronne.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Oninstalleer</DesignatorUninstall>
+  <DesignatorUninstall>Deinstalleer</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Oninstalleer dit sodat dit verplaas, verkoop of erens anders installeer kan word.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Deinstalleer dit sodat dit verplaas, verkoop of erens anders installeer kan word.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Oes</DesignatorHarvest>

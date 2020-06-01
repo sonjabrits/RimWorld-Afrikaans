@@ -29,7 +29,7 @@
   <!-- EN: rainy thunderstorm -->
   <RainyThunderstorm.label>reenerige donderstorms</RainyThunderstorm.label>
   <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
-  <RainyThunderstorm.description>Die weerlig kan vure veroorsaak, maar die reen sal dit blus. Die reen verlaag ook bewegings spoed en velwapen akkuraatheid.</RainyThunderstorm.description>
+  <RainyThunderstorm.description>Die weerlig kan vure veroorsaak, maar die reen sal dit blus. Die reen verlaag ook bewegings spoed en veldwapen akkuraatheid.</RainyThunderstorm.description>
   
   <!-- EN: gentle snow -->
   <SnowGentle.label>sagte sneeu</SnowGentle.label>

@@ -87,7 +87,7 @@
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
   <CommandBedSetForPrisonersFailOutdoors>TODO</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
-  <CommandBedSetAsMedicalLabel>TODO</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalLabel>Medies</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc>TODO</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
@@ -115,7 +115,7 @@
   <CommandHideZoneDesc>TODO</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>TODO</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>Verwyder</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
   <CommandDeleteZoneDesc>TODO</CommandDeleteZoneDesc>
 
@@ -420,7 +420,7 @@
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>TODO</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Laai</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterSingleDesc>TODO</CommandLoadTransporterSingleDesc>
   

@@ -291,7 +291,7 @@
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Nooit</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
   <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->

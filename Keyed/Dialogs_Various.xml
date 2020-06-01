@@ -8,7 +8,7 @@
   <!-- EN: Do you want to continue? -->
   <WantToContinue>TODO</WantToContinue>
   <!-- EN: OK -->
-  <OK>TODO</OK>
+  <OK>OK</OK>
   <!-- EN: Close -->
   <Close>TODO</Close>
   
@@ -84,9 +84,9 @@
   
   <!-- Save/load -->
   <!-- EN: Save -->
-  <SaveGameButton>TODO</SaveGameButton>
+  <SaveGameButton>Stoor</SaveGameButton>
   <!-- EN: Load -->
-  <LoadGameButton>TODO</LoadGameButton>
+  <LoadGameButton>Laai</LoadGameButton>
   <!-- EN: Overwrite -->
   <OverwriteButton>TODO</OverwriteButton>
   <!-- EN: Really delete {0}? -->
@@ -202,7 +202,7 @@
   <!-- EN: Small -->
   <MapSizeSmall>TODO</MapSizeSmall>
   <!-- EN: Medium -->
-  <MapSizeMedium>TODO</MapSizeMedium>
+  <MapSizeMedium>Medium</MapSizeMedium>
   <!-- EN: Large -->
   <MapSizeLarge>TODO</MapSizeLarge>
   <!-- EN: Extreme (test) -->
@@ -220,7 +220,7 @@
   <!-- EN: Not suspended -->
   <NotSuspended>TODO</NotSuspended>
   <!-- EN: SUSPENDED -->
-  <SuspendedAllCaps>TODO</SuspendedAllCaps>
+  <SuspendedAllCaps>OPGESKORT</SuspendedAllCaps>
   <!-- EN: Repeat: -->
   <RepeatCount>TODO</RepeatCount>
   <!-- EN: Forever -->
@@ -491,7 +491,7 @@
   <!-- EN: The types of targets on which this ability can be used. -->
   <AbilityTargetDesc>TODO</AbilityTargetDesc>
   <!-- EN: human -->
-  <TargetHuman>TODO</TargetHuman>
+  <TargetHuman>mens</TargetHuman>
   <!-- EN: animal -->
   <TargetAnimal>TODO</TargetAnimal>
   <!-- EN: self -->
@@ -619,7 +619,7 @@
   <!-- EN: People and animals -->
   <PawnsTab>TODO</PawnsTab>
   <!-- EN: Items -->
-  <ItemsTab>TODO</ItemsTab>
+  <ItemsTab>Toerusting</ItemsTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>TODO</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -895,11 +895,11 @@
   <!-- EN: Simple -->
   <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Plak</FoodRestrictionPaste>
   <!-- EN: Raw -->
   <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
   <!-- EN: Nothing -->
-  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <FoodRestrictionNothing>Niks</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
   <SelectFoodRestriction>TODO</SelectFoodRestriction>
   <!-- EN: New food restriction -->

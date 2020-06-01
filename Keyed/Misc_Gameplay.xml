@@ -7,7 +7,7 @@
   <!-- EN: Work left -->
   <WorkLeft>TODO</WorkLeft>
   <!-- EN: Contents -->
-  <Contents>TODO</Contents>
+  <Contents>Inhoud</Contents>
   <!-- EN: Contained resources -->
   <ContainedResources>TODO</ContainedResources>
   <!-- EN: For prisoner use -->
@@ -17,37 +17,37 @@
   <!-- EN: For colonist use -->
   <ForColonistUse>TODO</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>TODO</MedicalBed>
+  <MedicalBed>Medies</MedicalBed>
   <!-- EN: Owner -->
-  <Owner>TODO</Owner>
+  <Owner>Eienaar</Owner>
   <!-- EN: Owners -->
-  <Owners>TODO</Owners>
+  <Owners>Eienaars</Owners>
   <!-- EN: Assigned colonist -->
   <AssignedColonist>TODO</AssignedColonist>
   <!-- EN: Died on the {0} -->
   <DiedOn>TODO</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>TODO</Nobody>
+  <Nobody>Niemand</Nobody>
   <!-- EN: Unowned -->
-  <Unowned>TODO</Unowned>
+  <Unowned>Geen\neienaar</Unowned>
   <!-- EN: Dead for {0} -->
   <DeadTime>TODO</DeadTime>
   <!-- EN: walk speed {0} -->
   <WalkSpeed>TODO</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>TODO</FertShort>
+  <FertShort>vrugb.</FertShort>
   <!-- EN: dying -->
-  <DyingLower>TODO</DyingLower>
+  <DyingLower>sterwend</DyingLower>
   <!-- EN: Filth on feet: -->
   <FilthOnFeet>TODO</FilthOnFeet>
   <!-- EN: not enough stored -->
   <NotEnoughStoredLower>TODO</NotEnoughStoredLower>
   <!-- EN: nothing -->
-  <NothingLower>TODO</NothingLower>
+  <NothingLower>niks</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>TODO</Nothing>
+  <Nothing>Niks</Nothing>
   <!-- EN: Adapted -->
-  <Adapted>TODO</Adapted>
+  <Adapted>Aangepas</Adapted>
   <!-- EN: fresh -->
   <FreshMissingBodyPart>TODO</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
@@ -65,29 +65,29 @@
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>TODO</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
-  <Immunity>TODO</Immunity>
+  <Immunity>Immuniteit</Immunity>
   <!-- EN: {0} days to recover -->
   <DaysToRecover>TODO</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>TODO</Ineffective>
+  <Ineffective>Oneffektief</Ineffective>
   <!-- EN: illegal -->
   <Illegal>TODO</Illegal>
   <!-- EN: detection chance -->
   <DetectionChance>TODO</DetectionChance>
   <!-- EN: Race -->
-  <Race>TODO</Race>
+  <Race>Ras</Race>
   <!-- EN: Description -->
-  <Description>TODO</Description>
+  <Description>Beskrywing</Description>
   <!-- EN: Equipment -->
-  <Equipment>TODO</Equipment>
+  <Equipment>Gereedskap</Equipment>
   <!-- EN: Apparel -->
-  <Apparel>TODO</Apparel>
+  <Apparel>Klere</Apparel>
   <!-- EN: Inventory -->
-  <Inventory>TODO</Inventory>
+  <Inventory>Voorraad</Inventory>
   <!-- EN: Information -->
-  <ThingInfo>TODO</ThingInfo>
+  <ThingInfo>Inligting</ThingInfo>
   <!-- EN: Drop -->
-  <DropThing>TODO</DropThing>
+  <DropThing>Laat val</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
   <DropThingLodger>TODO</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
@@ -101,7 +101,7 @@
   <!-- EN: Renounce title -->
   <RenounceTitle>TODO</RenounceTitle>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>TODO</TitleOfFaction>
+  <TitleOfFaction>{0} van {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>TODO</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
@@ -191,7 +191,7 @@
   <!-- EN: Stopped because: Everyone is in a mental break. -->
   <AllCaravanMembersMentalBreak>TODO</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
-  <CaravanColonistsCount>TODO</CaravanColonistsCount>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
   <CaravanAnimal>TODO</CaravanAnimal>
   <!-- EN: {0} animals -->
@@ -237,29 +237,29 @@
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>TODO</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>TODO</WornByCorpseChar>
+  <WornByCorpseChar>B</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
+  <DeterioratingUnroofed>ongedak</DeterioratingUnroofed>
   <!-- EN: outdoors -->
-  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <DeterioratingOutdoors>buite</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
   <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
   <!-- EN: Map -->
-  <Map>TODO</Map>
+  <Map>Kaart</Map>
   <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>TODO</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
   <ForceExitAndRemoveMapCountdownTip>TODO</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
-  <Room>TODO</Room>
+  <Room>Kamer</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>TODO</BeautyHere>
+  <BeautyHere>Skoonheid hier</BeautyHere>
   <!-- EN: No power -->
-  <NoPower>TODO</NoPower>
+  <NoPower>Geen elektrisiteit</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>TODO</WorkSpeedPenalty>
   <!-- EN: DISABLED -->
-  <DisabledCommand>TODO</DisabledCommand>
+  <DisabledCommand>GEDEAKTIVEER</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>TODO</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
@@ -267,25 +267,25 @@
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>TODO</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>TODO</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>geen brandstof</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
   <TransportPodInGroupHasSomethingLeftToLoad>TODO</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>TODO</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>TODO</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>Nie genoeg brandstof</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>TODO</SettlementTrader>
+  <SettlementTrader>{0} van {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
   <RoomSurgerySuccessChanceFactor>TODO</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
   <RoomInfectionChanceFactor>TODO</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>TODO</VentClosed>
+  <VentClosed>Toe</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
   <WornBy>TODO</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>TODO</EquippedBy>
+  <EquippedBy>gebruik deur {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
@@ -309,27 +309,27 @@
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>TODO</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
-  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>TODO</SkillRequirements>
   <!-- EN: Products -->
-  <Products>TODO</Products>
+  <Products>Produkte</Products>
   <!-- EN: {0} of {1} -->
-  <Relationship>TODO</Relationship>
+  <Relationship>{0} van {1}</Relationship>
   <!-- EN: Prisoner -->
-  <Prisoner>TODO</Prisoner>
+  <Prisoner>Gevangene</Prisoner>
   <!-- EN: Refugee -->
   <Refugee>TODO</Refugee>
   <!-- EN: Terrain movement difficulty -->
   <TileMovementDifficulty>TODO</TileMovementDifficulty>
   <!-- EN: Impassable -->
-  <Impassable>TODO</Impassable>
+  <Impassable>Onbegaanbaar</Impassable>
   <!-- EN: Caravan movement speed -->
   <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>TODO</DownedLower>
+  <DownedLower>bewusteloos</DownedLower>
   <!-- EN: resting -->
-  <Carried>TODO</Carried>
+  <Carried>rus</Carried>
   <!-- EN: Avg. person move speed -->
   <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
@@ -339,19 +339,19 @@
   <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
-  <Winter>TODO</Winter>
+  <Winter>Winter</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>{0} in winter</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>TODO</RangeTo>
+  <RangeTo>na</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Geen brief</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>TODO</ExpiresIn>
+  <ExpiresIn>Verval in</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>TODO</Reason>
+  <Reason>Rede</Reason>
   <!-- EN: Relations with {0} -->
   <RelationsWith>TODO</RelationsWith>
   <!-- EN: captured by {0} -->
@@ -371,7 +371,7 @@
   <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>TODO</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>TODO</Caravan>
+  <Caravan>Konvooi</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
@@ -709,7 +709,7 @@
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>TODO</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>TODO</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} van {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
@@ -727,7 +727,7 @@
   <!-- EN: Equipped -->
   <Equipped>TODO</Equipped>
   <!-- EN: nothing -->
-  <EquippedNothing>TODO</EquippedNothing>
+  <EquippedNothing>niks</EquippedNothing>
   <!-- EN: Dead -->
   <Dead>TODO</Dead>
   <!-- EN: Unconscious -->
@@ -779,7 +779,7 @@
   <!-- EN: Stored -->
   <PowerBatteryStored>TODO</PowerBatteryStored>
   <!-- EN: Efficiency -->
-  <PowerBatteryEfficiency>TODO</PowerBatteryEfficiency>
+  <PowerBatteryEfficiency>Doeltreffendheid</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
   <SelfDischarging>TODO</SelfDischarging>
 
@@ -799,7 +799,7 @@
   <!-- EN: Unroofed -->
   <IndoorsUnroofed>TODO</IndoorsUnroofed>
   <!-- EN: Outdoors -->
-  <Outdoors>TODO</Outdoors>
+  <Outdoors>Indoors</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
@@ -853,7 +853,7 @@
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>TODO</OutdoorGrowingPeriod>
   <!-- EN: Never -->
-  <NoGrowingPeriod>TODO</NoGrowingPeriod>
+  <NoGrowingPeriod>Nooit</NoGrowingPeriod>
   <!-- EN: Year-round -->
   <GrowYearRound>TODO</GrowYearRound>
   <!-- EN: Growing season here now. -->
@@ -1249,7 +1249,7 @@
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->

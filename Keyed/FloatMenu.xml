@@ -119,7 +119,7 @@
   <!-- EN: too bright -->
   <CantSowCavePlantBecauseOfLight>TODO</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
-  <CantSowCavePlantBecauseUnroofed>TODO</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>ongedak</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->

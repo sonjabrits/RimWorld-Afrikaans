@@ -27,7 +27,7 @@
   <!-- EN: Post-process - other stats -->
   <StatsReport_OtherStats>TODO</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>TODO</StatsReport_Health>
+  <StatsReport_Health>Gesondheid</StatsReport_Health>
   <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>TODO</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->

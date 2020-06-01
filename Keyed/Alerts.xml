@@ -129,7 +129,7 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>Benodig batterye</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>Jy het 'n son of wind generator, maar geen batterye nie. Dit beteken jy verloor elektrisiteit elke keer wat die son ondergaan of die wind kalmeer.\n\nBou 'n battery of twee om seker te maak dat jy konstante toevoer van elektrisiteit het.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Jy het 'n son of wind generator, maar geen batterye nie. Dit beteken jy verloor elektrisiteit toevoer elke keer wat die son ondergaan of die wind kalmeer.\n\nBou 'n battery of twee om seker te maak dat jy konstante toevoer van elektrisiteit het.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Vegter het 'n veldwapen</BrawlerHasRangedWeapon>

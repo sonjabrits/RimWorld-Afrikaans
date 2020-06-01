@@ -107,7 +107,7 @@
   <!-- EN: Crowded -->
   <PlanetPopulation_High>Hoog</PlanetPopulation_High>
   <!-- EN: Seed -->
-  <WorldSeed>TODO</WorldSeed>
+  <WorldSeed>Saad</WorldSeed>
   <!-- EN: Randomize seed -->
   <RandomizeSeed>TODO</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->

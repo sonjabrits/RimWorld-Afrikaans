@@ -3,19 +3,19 @@
 
   <!-- WITab titles -->
   <!-- EN: Terrain -->
-  <TabTerrain>TODO</TabTerrain>
+  <TabTerrain>Terrein</TabTerrain>
   <!-- EN: Planet -->
-  <TabPlanet>TODO</TabPlanet>
+  <TabPlanet>Planeet</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>TODO</TabCaravanSocial>
+  <TabCaravanSocial>Sosiaal</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>TODO</TabCaravanHealth>
+  <TabCaravanHealth>Gesondheid</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>TODO</TabCaravanNeeds>
+  <TabCaravanNeeds>Behoeftes</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>TODO</TabCaravanGear>
+  <TabCaravanGear>Toerusting</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>TODO</TabCaravanItems>
+  <TabCaravanItems>Toerusting</TabCaravanItems>
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
@@ -41,7 +41,7 @@
   <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>TODO</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>TODO</CaravanItems>
+  <CaravanItems>Voorraad</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>TODO</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
@@ -67,8 +67,8 @@
   
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>TODO</PlanetSeed>
+  <PlanetSeed>Saad</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>TODO</PlanetCoverageShort>
+  <PlanetCoverageShort>Dekking</PlanetCoverageShort>
 
 </LanguageData>
