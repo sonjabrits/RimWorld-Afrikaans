@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: brain -->
-  <Brain.label>TODO</Brain.label>
+  <Brain.label>brein</Brain.label>
   
   <!-- EN: ear -->
-  <Ear.label>TODO</Ear.label>
+  <Ear.label>oor</Ear.label>
   
   <!-- EN: eye -->
-  <Eye.label>TODO</Eye.label>
+  <Eye.label>oog</Eye.label>
   
   <!-- EN: foot -->
-  <Foot.label>TODO</Foot.label>
+  <Foot.label>voet</Foot.label>
   
   <!-- EN: head -->
-  <Head.label>TODO</Head.label>
+  <Head.label>kop</Head.label>
   
   <!-- EN: jaw -->
-  <Jaw.label>TODO</Jaw.label>
+  <Jaw.label>kakebeen</Jaw.label>
   
   <!-- EN: leg -->
-  <Leg.label>TODO</Leg.label>
+  <Leg.label>been</Leg.label>
   
   <!-- EN: neck -->
-  <Neck.label>TODO</Neck.label>
+  <Neck.label>nek</Neck.label>
   
   <!-- EN: nose -->
-  <Nose.label>TODO</Nose.label>
+  <Nose.label>neus</Nose.label>
   
   <!-- EN: ribcage -->
-  <Ribcage.label>TODO</Ribcage.label>
+  <Ribcage.label>ribbekas</Ribcage.label>
   
   <!-- EN: skull -->
-  <Skull.label>TODO</Skull.label>
+  <Skull.label>skedel</Skull.label>
   
   <!-- EN: spine -->
-  <Spine.label>TODO</Spine.label>
+  <Spine.label>ruggraat</Spine.label>
   
 </LanguageData>
